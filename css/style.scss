@@ -1,0 +1,39 @@
+nav {
+  border: red solid 1px;
+  background-color: black;
+  font-size: 1.6em;
+  display: flex;
+  justify-content: space-between;
+
+  .gauche {
+    border: 1px solid blue;
+    display: flex;
+    align-items: center;
+          }
+
+    img{
+      height:3rem;
+      width: auto;
+    }
+  }
+
+  .droite {
+    display: flex;
+    align-items: center;
+  }
+
+  a {
+    
+    color:burlywood;
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 1rem;
+    
+  }
+  {
+    background-image: equipe.jpg;
+    max-width: 100%; 
+    height: auto;
+  }
+
+
