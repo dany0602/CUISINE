@@ -1,3 +1,9 @@
+body{
+  background-image:url("../img/equipe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 nav {
   border: red solid 1px;
   background-color: black;
@@ -25,13 +31,9 @@ a {
   text-decoration: none;
   margin-right: 10px;
   padding: 1rem;
+  }
 
 
-p {
-  background-image: equipe.jpg;
-  max-width: 100%; 
-  height: auto;
-}
 
 
 
